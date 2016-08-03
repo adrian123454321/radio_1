@@ -55,13 +55,4 @@ class Radio():
 			if sefl.en_fm<=88.0:
 				self.en_fm=107.0
 			else:
-
-
-
-
-
-
-			 	
-
-
-
+				self.en_fm-=0.5
